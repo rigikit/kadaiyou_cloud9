@@ -1,0 +1,13 @@
+.mini {
+  color: red;
+
+  font-size:50%
+}
+
+.list li{
+  display: inline;
+  color:pink;
+  width: 200px;
+  
+  float:left;
+}
